@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringMVC + Embedded Databases
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: aditya
+Implementation-Vendor-Id: com.mkyong.common
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/spring-mvc-e
+ mbedded-db/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
